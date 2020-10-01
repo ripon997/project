@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    background:#ffffff;
+}
+.firstrow {
+    height: 200px;
+    width: 100%;
+    margin: 0;
+}
+.leftfirstrow {
+    height: 200px;
+    width: 50%;
+    margin: 0;
+    background-color: blue;
+    float: left;
+    overflow: hidden;
+}
+.firstrowheader {
+    height: 100px;
+    width: 50%;
+    background-color: brown;
+    float: right;
+}
+.rightfirstrow {
+    height: 200px;
+    width: 50%; 
+    float: right;
+} 
+.firstrowfooter {
+    height: 100px;
+    width: 50%;
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 25%;
+}
+.secondrow {
+    height: 500px;
+    width: 100%;
+    background-color: yellowgreen;
+    margin: 0;
+}
+.firstbox {
+    height: 250px;
+    width: 30%;
+    background-color: rgb(50, 117, 205);
+    float: left;
+    overflow: hidden;
+    margin-top: 125px;
+}
+.secondbox {
+    height: 500px;
+    width: 20%;
+    margin: 0;
+    float: left;
+    overflow: hidden;
+}
+.secondboxtop {
+    height: 250px;
+    width: 100%;
+    background-color: burlywood;
+}
+.secondboxbottom {
+    height: 250px;
+    width: 100%;
+    background-color: yellow;
+}
+.thirdbox {
+    height: 500px;
+    width: 50%;
+    background-color: yellowgreen;
+    margin: 0;
+    float: right;
+}
+.thirdboxleft {
+    height: 500px;
+    width: 50%;
+    background-color: teal;
+    float: left;
+    overflow: hidden;
+}
+.thirdboxright {
+    height: 500px;
+    width: 50%;
+    background-color: gray;
+    float: right;
+} 
+.thirdrow {
+    height: 100px;
+    width: 100%;
+}
+.thirdrowfirstbox {
+    height: 100px;
+    width: 50%;
+    background-color: violet;
+    float: left;
+    overflow: hidden;
+}
+.thirdrowsecondbox {
+    height: 100px;
+    width: 50%;
+    background-color: rgb(130, 238, 202);
+    float: right;
+    overflow: hidden; 
+}
+.fourthrow {
+    height: 300px;
+    width: 100%;
+    background-color: gray;
+}
+.fourthrowtop {
+    height: 100px;
+    width: 100%;
+    background-color: indigo;
+}
+.fourthrowdown {
+    height: 200px;
+    width: 100%;
+}
+.fourthrowfirstbox {
+    height: 200px;
+    width: 20%;
+    background-color: khaki;
+    float: left;
+    overflow: hidden;
+}
+.fourthrowsecondbox {
+    height: 200px;
+    width: 20%;
+    background-color: red;
+    float: left;
+    overflow: hidden;
+}
+.fourthrowthirdbox {
+    height: 200px;
+    width: 20%;
+    background-color: green;
+    float: left;
+    overflow: hidden;
+}
+.fourthrowfourthbox {
+    height: 200px;
+    width: 20%;
+    background-color: blue;
+    float: left;
+    overflow: hidden;
+}
+.fourthrowfifthbox {
+    height: 200px;
+    width: 20%;
+    background-color: yellow;
+    float: right;
+    overflow: hidden;
+}
